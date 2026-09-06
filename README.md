@@ -17,8 +17,7 @@ Full-Stack Development • Backend Systems • Product Building
 
 I'm a Computer Science student who likes shipping real, working products end-to-end — from database schema to deployed UI. Most of what I build starts as a problem I actually ran into.
 
-- 🏗️ Currently building **Bolahh** — a full-stack futsal match booking platform (live in production)
-- ⚖️ Also building **KedahCourtSystem** — a legal case search tool
+- 🏗️ Currently building **Bolahh**, a full-stack futsal match booking platform (live in production)
 - 🧠 Comfortable across the whole stack: React frontends, Supabase/Postgres backends, auth, storage, and deployment
 - 🌏 Malaysian, currently based in South Korea
 - 🚀 Big on shipping fast and iterating in public
