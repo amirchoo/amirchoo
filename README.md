@@ -15,9 +15,10 @@ Full-Stack Development • Backend Systems • Product Building
 
 ## About Me
 
-I'm a Computer Science student who likes shipping real, working products end-to-end — from database schema to deployed UI. Most of what I build starts as a problem I actually ran into.
+I'm a Computer Science student who likes shipping real, working products end to end, from database schema to deployed UI. Most of what I build starts as a problem I actually ran into.
 
 - 🏗️ Currently building **Bolahh**, a full-stack futsal match booking platform (live in production)
+- 🌐 Contributing to **Keris**, an initiative website built with the team at Keris Initiative
 - 🧠 Comfortable across the whole stack: React frontends, Supabase/Postgres backends, auth, storage, and deployment
 - 🌏 Malaysian, currently based in South Korea
 - 🚀 Big on shipping fast and iterating in public
@@ -50,15 +51,15 @@ I'm a Computer Science student who likes shipping real, working products end-to-
 <a href="https://bolahh.com">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirchoo&repo=Bolahh&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/amirchoo/KedahCourtSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirchoo&repo=KedahCourtSystem&theme=tokyonight&hide_border=true" />
+<a href="https://keris2026.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerisinitiative&repo=keris2026&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-> **Bolahh** — indoor soccer match booking platform for Malaysia. React + Supabase, live at [bolahh.com](https://bolahh.com), with wallet payments, a FIFA-style player ranking/card system, and an admin manager dashboard.
+> **Bolahh**: indoor soccer match booking platform for Malaysia. React and Supabase, live at [bolahh.com](https://bolahh.com), with wallet payments, a FIFA-style player ranking/card system, and an admin manager dashboard.
 >
-> **KedahCourtSystem** — legal case search system, reusing Bolahh's stack and design language.
+> **Keris**: initiative website for Keris, live at [keris2026.vercel.app](https://keris2026.vercel.app).
 
 ---
 
