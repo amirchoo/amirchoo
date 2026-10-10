@@ -20,10 +20,8 @@ I'm a Computer Science student who likes shipping real, working products end to 
 
 - ⚽ Currently building **Bolahh**, a full-stack futsal match booking platform (live in production)
 - 🍜 Building **Tapaulahh**, a map-first pasar malam and Kedai Rumah finder for Malaysia
-- 🌐 Contributing to **Keris**, an initiative website built with the team at Keris Initiative
 - 🧠 Comfortable across the whole stack: React frontends, Supabase/Postgres backends, auth, storage, and deployment
 - 🌏 Malaysian, currently based in South Korea
-- 🦁 Chelsea till I die. KTBFFH 💙
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:034694,100:DBA111&height=3" />
 
